@@ -1,0 +1,47 @@
+[
+    {
+        "model": "products.product",
+        "pk": 2,
+        "fields": {
+            "category": 3,
+            "name": "tiralnaya-mashina",
+            "slug": "stiralnaya-mashina",
+            "image": "",
+            "description": "fffff ",
+            "price": "12.00",
+            "available": true,
+            "created": "2026-01-27T08:59:29.364Z",
+            "updated": "2026-01-27T08:59:29.364Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 3,
+        "fields": {
+            "category": 2,
+            "name": "umnye-chasy",
+            "slug": "umnye-chasy",
+            "image": "products/images_6.jpg",
+            "description": "",
+            "price": "14.00",
+            "available": true,
+            "created": "2026-01-27T09:02:37.771Z",
+            "updated": "2026-01-27T09:02:37.771Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 4,
+        "fields": {
+            "category": 3,
+            "name": "ajphon",
+            "slug": "ajphon",
+            "image": "",
+            "description": "",
+            "price": "1.00",
+            "available": true,
+            "created": "2026-01-27T09:03:13.062Z",
+            "updated": "2026-01-27T09:03:13.062Z"
+        }
+    }
+]
